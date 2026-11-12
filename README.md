@@ -65,7 +65,7 @@ The table below lists top enterprise CWPP and converged CNAPP SaaS solutions. Co
 
 A comprehensive roster of production-grade open-source tools for self-hosted container image scanning, Linux kernel runtime threat detection via eBPF, Kubernetes benchmark compliance, and cloud infrastructure security. 🛠️
 
-Entries are sorted in **descending order by GitHub Stars_Count**. Stars_Badges link directly to each project's stargazers community page. 🌟
+Entries are sorted in **descending order by GitHub_Stars_Count**. Stars_Badges link directly to each project's stargazers community page. 🌟
 
 | Project | GitHub_Stars | Description | Primary Focus Areas |
 |:---|:---|:---|:---|
