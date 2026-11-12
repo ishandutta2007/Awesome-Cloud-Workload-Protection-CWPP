@@ -65,9 +65,9 @@ The table below lists top enterprise CWPP and converged CNAPP SaaS solutions. Co
 
 A comprehensive roster of production-grade open-source tools for self-hosted container image scanning, Linux kernel runtime threat detection via eBPF, Kubernetes benchmark compliance, and cloud infrastructure security. 🛠️
 
-Entries are sorted in **descending order by GitHub star count**. Star badges link directly to each project's stargazers community page. 🌟
+Entries are sorted in **descending order by GitHub Stars_Count**. Stars_Badges link directly to each project's stargazers community page. 🌟
 
-| Project | GitHub Stars | Description | Primary Focus Areas |
+| Project | GitHub_Stars | Description | Primary Focus Areas |
 |:---|:---|:---|:---|
 | **[Trivy](https://github.com/aquasecurity/trivy)** | [![Trivy Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) | 🔍 Comprehensive, blazing-fast security scanner detecting CVE vulnerabilities, exposed secrets, misconfigurations, and software bills of materials (SBOM) across container images, filesystems, Git repos, and Kubernetes clusters. | Vulnerability Scanning, Container Security, SBOM, CI/CD |
 | **[Prowler](https://github.com/prowler-cloud/prowler)** | [![Prowler Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) | 🐆 Open-source security assessment, auditing, and hardening tool for AWS, Azure, GCP, and Kubernetes. Includes 500+ checks mapped directly to CIS Benchmarks, ISO 27001, HIPAA, and PCI-DSS frameworks. | CSPM, Compliance Auditing, Multi-Cloud Hardening |
@@ -104,7 +104,7 @@ We welcome additions, corrections, and improvements from the cloud security and 
 2. Create a new branch: `git checkout -b feature/add-new-cwpp-tool`
 3. Edit `README.md` following the tabular structure:
    - For SaaS products: Include specific starting tier pricing, free tier / trial day limits, and company scale.
-   - For Open-source projects: Include project link, social style star badge, concise description, and focus areas.
+   - For Open-source projects: Include project link, social style Stars_Badge, concise description, and focus areas.
 4. Ensure entries remain objective, accurate, and properly cited.
 5. Commit and open a Pull Request! 🎉
 
