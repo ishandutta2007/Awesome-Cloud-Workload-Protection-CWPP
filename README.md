@@ -1,6 +1,6 @@
 # Awesome-Cloud-Workload-Protection-CWPP
 
-# Top Cloud Workload Protection (CWPP) Ecosystem
+## Top Cloud Workload Protection (CWPP) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Runtime Security, Agentless Scanning & Cloud-Native Application Protection*  
